@@ -1,6 +1,7 @@
 {
  "work": "千載和歌集",
  "work_id": "kt-senzai",
+ "repo": "kumoi-no-fumigura/senzai-wakashu",
  "yomi": "せんざいわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -15441,6 +15442,5 @@
    "text": "たちちせせ山神の代させる婦葉の榮えまさるは君がためとか",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/senzai-wakashu"
+ ]
 }
